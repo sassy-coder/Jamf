@@ -1,5 +1,7 @@
 # Jamf Restricted Software Automation Script #
 
+![image](https://github.com/user-attachments/assets/2a6ba08b-f99f-4bdc-a0a9-3866456020c4)
+
 **Overview**
 This script automates the identification and restriction of unauthorized software in a Jamf Pro environment. It analyzes applications installed on managed devices, compares them to a whitelist, and restricts unauthorized applications exceeding a specified usage threshold. Additionally, it generates a log report and sends an email summary with details of restricted applications.
 
