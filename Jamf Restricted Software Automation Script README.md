@@ -80,6 +80,7 @@ API URL: Update the $url variable with your Jamf Pro server URL.
 Authentication: Use Basic Authentication (username/password) or update the script to use Client ID/Secret.
 Whitelist
 Define applications in the $whitelist array to exclude them from restrictions.
+I had have the script running on a schedual on a windows VM every 2 days but you can manually trigger the script when needed.
 
 **Logs and Error Handling**
 Logs are saved in C:\Temp\ with filenames following the pattern: RestrictedSoftwareAnalysis_YYYYMMDD_HHMMSS.csv.
