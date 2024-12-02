@@ -40,7 +40,7 @@ Include this image in your repository:
 
 **Installation**
 Copy the Powershell script:
-Create-JSSRestrictedSoftware.ps1
+[Create-JSSRestrictedSoftware.ps1](https://github.com/sassy-coder/Jamf/commit/9912f32f24ef0ee72feb7825194aa9f63f4b5940)
 Update the script with your environment-specific values:
 
 Replace username and password with your Jamf API credentials.
