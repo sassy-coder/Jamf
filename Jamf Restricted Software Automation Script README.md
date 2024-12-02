@@ -39,11 +39,8 @@ Ensure that the home directory is scanned during inventory check-ins to capture 
 Include this image in your repository:
 
 **Installation**
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/jamf-restricted-software.git
+Copy the Powershell script:
+Create-JSSRestrictedSoftware.ps1
 Update the script with your environment-specific values:
 
 Replace username and password with your Jamf API credentials.
