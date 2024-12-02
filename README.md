@@ -1,4 +1,5 @@
-***Jamf Restricted Software Automation Script***
+*Jamf Restricted Software Automation Script*
+
 **Overview**
 This script automates the identification and restriction of unauthorized software in a Jamf Pro environment. It analyzes applications installed on managed devices, compares them to a whitelist, and restricts unauthorized applications exceeding a specified usage threshold. Additionally, it generates a log report and sends an email summary with details of restricted applications.
 
